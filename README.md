@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+   
+`Check This out ! `
+
+[![Palak Goel-- Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palakgoel25&layout=compact&border_color=2e4058)](https://github.com/Palakgoel25/github-readme-stats)
+
+![MY STATS](https://github-readme-stats.vercel.app/api?username=Palakgoel25&show_icons=true&border_color=2e4058)
+
+
